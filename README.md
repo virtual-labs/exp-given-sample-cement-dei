@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Varun Pal Singh | Student | Civil Engineering | Dayalbagh Educational Institute | singhvarun928@gmail.com
+2 | Ana Rehman | Student | Civil Engineering | Dayalbagh Educational Institute | anarhemanana@gmail.com
