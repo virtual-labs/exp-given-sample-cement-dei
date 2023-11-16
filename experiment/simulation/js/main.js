@@ -1,5 +1,6 @@
 const nextToStep1 = document.querySelector("#nextToStep1");
 const mainStep = document.querySelector("#mainStep");
+const simulationContainer = document.querySelector(".simulation-container");
 
 // step 1
 const step1 = document.querySelector("#step1");
@@ -29,12 +30,13 @@ const arrNext = document.querySelector(".arr-next");
 
 addEventListener("DOMContentLoaded", (evt) => {
     nextToStep1.style.visibility = "visible";
+    simulationContainer.style.backgroundColor = "#deebf7";
 });
 
 nextToStep1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     mainStep.style.visibility = "hidden";
-
+    simulationContainer.style.backgroundColor = "#dbe3e9";
     step1.style.visibility = "visible";
     instructionsStep1.textContent = "content...";
     png1Step1.style.visibility = "visible";
@@ -46,12 +48,11 @@ trans1Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr1Step1.style.visibility = "hidden";
     png1Step1.style.visibility = "hidden";
-
     gif1Step1.style.visibility = "visible";
     setTimeout(() => {
         trans2Step1.style.visibility = "visible";
         arr2Step1.style.visibility = "visible";
-    }, 5000);
+    }, 3000);
 });
 
 trans2Step1.addEventListener("click", (evt) => {
