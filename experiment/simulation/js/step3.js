@@ -22,7 +22,7 @@ const nextToStep4 = document.querySelector("#nextToStep4");
 addEventListener("DOMContentLoaded", (evt) => {
     step3.style.visibility = "visible";
     instructionsStep3.innerText = "Content...";
-
+    simulationContainer.style.backgroundColor = "#dbe3e9";
     png1Step3.style.visibility = "visible";
     arr1Step3.style.visibility = "visible";
     trans1Step3.style.visibility = "visible";

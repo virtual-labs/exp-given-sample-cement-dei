@@ -22,6 +22,7 @@ const nextToStep3 = document.querySelector("#nextToStep3");
 addEventListener("DOMContentLoaded", (evt) => {
     step2.style.visibility = "visible";
     instructionsStep2.innerText = "Content...";
+    simulationContainer.style.backgroundColor = "#dbe3e9";
 
     png1Step2.style.visibility = "visible";
     arr1Step2.style.visibility = "visible";
@@ -32,7 +33,7 @@ trans1Step2.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     png1Step2.style.visibility = "hidden";
     arr1Step2.style.visibility = "hidden";
-    
+
     simulationContainer.style.backgroundColor = "#deebf7";
     gif1Step2.style.visibility = "visible";
 
