@@ -9,6 +9,10 @@ const trans1Step4 = document.querySelector("#trans1Step4");
 
 const arr1Step4 = document.querySelector("#arr1Step4");
 
+const nextToStep5 = document.querySelector("#nextToStep5");
+
+const arrNext = document.querySelector(".arr-next");
+
 addEventListener("DOMContentLoaded", (evt) => {
     step4.style.visibility = "visible";
     instructionsStep4.innerText = "Content ...";
@@ -25,7 +29,8 @@ trans1Step4.addEventListener("click", (evt) => {
 
     gif1Step4.style.visibility = "visible";
 
-    // setTimeout(() => {
-        
-    // }, 4500);
+    setTimeout(() => {
+        nextToStep5.style.visibility = "visible";
+        arrNext.style.visibility = "visible";
+    }, 10000);
 })
