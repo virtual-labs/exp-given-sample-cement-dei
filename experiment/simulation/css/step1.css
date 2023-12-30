@@ -14,6 +14,13 @@
     height: 20px;
 }
 
+#trans3Step1{
+    left: 530px;
+    top: 155px;
+    width: 100px;
+    height: 50px;
+}
+
 /* arrows */
 #arr1Step1{
     left: 710px;
@@ -22,4 +29,9 @@
 #arr2Step1{
     left: 110px;
     top: 475px;
+}
+
+#arr3Step1{
+    left: 620px;
+    top: 160px;
 }

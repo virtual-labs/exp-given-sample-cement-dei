@@ -1,12 +1,23 @@
 /* step3 */
 
 #trans1Step3{
-    top: 170px;
-    left: 600px;
+    top: 150px;
+    left: 570px;
     width: 80px;
 }
 
-#arr1Step3{
+#trans2Step3{
     top: 190px;
-    left: 675px;
+    left: 560px;
+    width: 120px;
+}
+
+#arr1Step3{
+    top: 175px;
+    left: 640px;
+}
+
+#arr2Step3{
+    top: 220px;
+    left: 660px;
 }
