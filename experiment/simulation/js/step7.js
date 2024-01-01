@@ -1,6 +1,8 @@
 const step7 = document.querySelector("#step7");
 const instructionsStep7 = document.querySelector("#instructionsStep7");
 
+const conslusion = document.querySelector("#conclusion");
+
 const simulationContainer = document.querySelector(".simulation-container");
 const pngColor = "#dbe3e9", gifColor = "#deebf7";
 
@@ -15,10 +17,11 @@ const trans1Step7 = document.querySelector("#trans1Step7");
 const trans2Step7 = document.querySelector("#trans2Step7");
 const trans3Step7 = document.querySelector("#trans3Step7");
 const trans4Step7 = document.querySelector("#trans4Step7");
-const trans5Step7 = document.querySelector("#trans5Step7");
-const trans6Step7 = document.querySelector("#trans6Step7");
 
 const arr1Step7 = document.querySelector("#arr1Step7");
+const arr2Step7 = document.querySelector("#arr2Step7");
+const arr3Step7 = document.querySelector("#arr3Step7");
+const arr4Step7 = document.querySelector("#arr4Step7");
 
 const nextToPosttest = document.querySelector("#nextToPosttest");
 
@@ -33,6 +36,63 @@ addEventListener("DOMContentLoaded", (evt) => {
     trans1Step7.style.visibility = "visible";
 });
 
+trans1Step7.addEventListener("click", (evt) => {
+    evt.target.style.visibility = "hidden";
+    arr1Step7.style.visibility = "hidden";
+    png1Step7.style.visibility = "hidden";
+    
+    png2Step7.style.visibility = "visible";
+
+    setTimeout(() => {
+        trans2Step7.style.visibility = "visible";
+        arr2Step7.style.visibility = "visible";
+    }, 1000);
+});
+
+trans2Step7.addEventListener("click", (evt) => {
+    evt.target.style.visibility = "hidden";
+    arr2Step7.style.visibility = "hidden";
+    png2Step7.style.visibility = "hidden";
+    
+    png3Step7.style.visibility = "visible";
+
+    setTimeout(() => {
+        trans3Step7.style.visibility = "visible";
+        arr3Step7.style.visibility = "visible";
+    }, 1000);
+
+});
+
+trans3Step7.addEventListener("click", (evt) => {
+    evt.target.style.visibility = "hidden";
+    arr3Step7.style.visibility = "hidden";
+    png3Step7.style.visibility = "hidden";
+    
+    png4Step7.style.visibility = "visible";
+
+    setTimeout(() => {
+        trans4Step7.style.visibility = "visible";
+        arr4Step7.style.visibility = "visible";
+    }, 1000);
+});
+
+trans4Step7.addEventListener("click", (evt) => {
+    evt.target.style.visibility = "hidden";
+    arr4Step7.style.visibility = "hidden";
+    png4Step7.style.visibility = "hidden";
+    
+    png5Step7.style.visibility = "visible";
+
+    setTimeout(() => {
+        conslusion.style.visibility = "visible";
+    }, 1000);
+
+    setTimeout(() => {
+        nextToPosttest.style.visibility = "visible";
+        arrNext.style.visibility = "visible";
+    }, 4000);
+});
+
 nextToPosttest.addEventListener("click", (evt) => {
-    window.location.href = "";
+    window.location.href = "https://virtual-labs.github.io/exp-given-sample-cement-dei/posttest.html";
 })
