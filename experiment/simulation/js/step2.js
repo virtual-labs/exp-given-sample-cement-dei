@@ -27,7 +27,7 @@ const nextToStep3 = document.querySelector("#nextToStep3");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step2.style.visibility = "visible";
-    instructionsStep2.innerText = "Content...";
+    instructionsStep2.innerText = "Place an empty beaker on the weighing balance. Press the TARE button.  Weigh 0.78P times the water in the beaker which is required to give cement paste a standard consistency.";
     simulationContainer.style.backgroundColor = "#dbe3e9";
 
     png1Step2.style.visibility = "visible";

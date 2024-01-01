@@ -26,7 +26,7 @@ const nextToStep4 = document.querySelector("#nextToStep4");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step3.style.visibility = "visible";
-    instructionsStep3.innerText = "Content...";
+    instructionsStep3.innerText = "Mix the water and cement to obtain a smooth paste of standard consistency.";
     simulationContainer.style.backgroundColor = pngColor;
     png1Step3.style.visibility = "visible";
     arr1Step3.style.visibility = "visible";
