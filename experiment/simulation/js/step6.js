@@ -24,7 +24,7 @@ const arrNext = document.querySelector(".arr-next");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step6.style.visibility = "visible";
-    instructionsStep6.innerText = "content...";
+    instructionsStep6.innerText = "Now, immerse the Le Chatelier's setup in the water tank at boiling temperature for about 3 hours.";
     simulationContainer.style.backgroundColor = pngColor;
     png1Step6.style.visibility = "visible";
     arr1Step6.style.visibility = "visible";
@@ -43,6 +43,9 @@ trans1Step6.addEventListener("click", (evt) => {
         gif1Step6.style.visibility = "hidden";
 
         simulationContainer.style.backgroundColor = pngColor;
+
+        instructionsStep6.innerText = `Remove the assembly from the boiling water  and measure the distance between the two indicators of the apparatus.`
+
         png2Step6.style.visibility = "visible"
     }, 4500);
 
@@ -52,7 +55,7 @@ trans1Step6.addEventListener("click", (evt) => {
         png3Step6.style.visibility = "visible"
         trans2Step6.style.visibility = "visible"
         arr2Step6.style.visibility = "visible"
-    }, 6500);
+    }, 8000);
 });
 
 trans2Step6.addEventListener("click", (evt) => {

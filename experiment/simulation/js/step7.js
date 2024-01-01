@@ -29,7 +29,9 @@ const arrNext = document.querySelector(".arr-next");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step7.style.visibility = "visible";
-    instructionsStep7.innerText = "content...";
+
+    instructionsStep7.innerText = " Perform the same procedure for another set of observations and calculate the average of the two values to find the expansion of cement.";
+    
     simulationContainer.style.backgroundColor = pngColor;
     png1Step7.style.visibility = "visible";
     arr1Step7.style.visibility = "visible";
@@ -90,7 +92,7 @@ trans4Step7.addEventListener("click", (evt) => {
     setTimeout(() => {
         nextToPosttest.style.visibility = "visible";
         arrNext.style.visibility = "visible";
-    }, 4000);
+    }, 3000);
 });
 
 nextToPosttest.addEventListener("click", (evt) => {
