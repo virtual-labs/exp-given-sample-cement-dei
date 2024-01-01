@@ -26,7 +26,7 @@ const arrNext = document.querySelector(".arr-next");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step5.style.visibility = "visible";
-    instructionsStep5.innerText = "content...";
+    instructionsStep5.innerText = "Immerse the Le Chatelier’s apparatus, cement and glass plate assembly inside a water tank for about 24 hours at a temperature of 27 ± 2° C.";
     simulationContainer.style.backgroundColor = pngColor;
     png1Step5.style.visibility = "visible";
     arr1Step5.style.visibility = "visible";
@@ -44,6 +44,8 @@ trans1Step5.addEventListener("click", (evt) => {
     setTimeout(() => {
         gif1Step5.style.visibility = "hidden";
 
+        instructionsStep5.innerText = `Remove the assembly from the tank after 24 hours and measure the distance between the two indicators of the Le Chatelier's apparatus.`
+        
         simulationContainer.style.backgroundColor = pngColor;
         png2Step5.style.visibility = "visible"
         trans2Step5.style.visibility = "visible"
