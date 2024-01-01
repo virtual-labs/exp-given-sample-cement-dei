@@ -40,6 +40,7 @@ main{
     position: absolute;
     display: inline-block;
     text-align: justify;
+    margin-left: 10px;
     top: 30px;
     left: 100px;
     width: 690px;
@@ -50,6 +51,7 @@ main{
     position: absolute;
     display: inline-block;
     text-align: justify;
+    margin-left: 10px;
     top: 100px;
     left: 175px;
     width: 610px;
@@ -106,7 +108,7 @@ main{
 .exp-transboxes{
     visibility: hidden;
     position: absolute;
-    /* border: 2px solid green; */
+    border: 2px solid green;
 }
 
 /* ARROWS  */
