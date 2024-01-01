@@ -40,7 +40,7 @@ const arrNext = document.querySelector(".arr-next");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step4.style.visibility = "visible";
-    instructionsStep4.innerText = "Gently apply oil to the inner part of the Le- Chatelier’s mould. Pace the apparatus on the glass plate. Fill the mould with the prepared cement paste. Remove excess cement from the top and obtain a smooth finish. Cover the Cover the mould with another glass plate and put a small weight on top of this arrangement.";
+    instructionsStep4.innerText = "Gently apply oil to the inner part of the Le- Chatelier's mould. Pace the apparatus on the glass plate.";
     simulationContainer.style.backgroundColor = pngColor;
     png1Step4.style.visibility = "visible";
     arr1Step4.style.visibility = "visible";
@@ -76,6 +76,9 @@ trans2Step4.addEventListener("click", (evt) => {
     setTimeout(() => {
         gif2Step4.style.visibility = 'hidden';
         simulationContainer.style.backgroundColor = pngColor;
+
+        instructionsStep4.innerText = "Fill the mould with the prepared cement paste. Remove excess cement from the top and obtain a smooth finish. Cover the Cover the mould with another glass plate and put a small weight on top of this arrangement.";
+        
         png3Step4.style.visibility = "visible";
 
         trans3Step4.style.visibility = "visible";
