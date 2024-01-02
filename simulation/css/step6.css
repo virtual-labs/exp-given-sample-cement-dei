@@ -1,0 +1,27 @@
+/* step 6 */
+/* transboxes */
+
+#trans1Step6{
+    width: 50px;
+    height: 40px;
+    top: 145px;
+    left: 660px;
+}
+
+#trans2Step6{
+    top: 125px;
+    left: 55px;
+    width: 40px;
+    height: 290px;
+}
+
+/* arrows */
+
+#arr1Step6{
+    left: 720px;
+    top: 150px;
+}
+
+#arr2Step6{
+    top: 250px;
+}

@@ -1,0 +1,113 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The clear indicator leg length of Le Chatelier's apparatus is____.",
+      "answers": {
+        "a": "170 mm",
+        "b": "160 mm",
+        "c": "155 mm",
+        "d": "165 mm"
+      },
+      "explanations": {
+        "d": "165 mm"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the height of the mould used in the experiment?",
+      "answers": {
+        "a": "35mm",
+        "b": "40mm",
+        "c": "30mm",
+        "d": "50mm"
+      },
+      "explanations": {
+        "c": "30mm"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": ")The split cylindrical mould of Le- Chatelier's apparatus is made up of?",
+      "answers": {
+        "a": "Mild Steel",
+        "b": "Nickel",
+        "c": "Brass",
+        "d": "Stainless steel"
+      },
+      "explanations": {
+        "c": "Brass"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The average expansion of OPC, PPC and Rapid hardening cement should not exceed _____?",
+      "answers": {
+        "a": "5 mm",
+        "b": "8 mm",
+        "c": "15 mm",
+        "d": "10 mm"
+      },
+      "explanations": {
+        "d": "10 mm"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Super Sulphated cement should not expand more than ____?",
+      "answers": {
+        "a": "5 mm",
+        "b": "10 mm",
+        "c": "8 mm",
+        "d": "15 mm"
+      },
+      "explanations": {
+        "a": "5 mm"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The cement sample is immersed in boiling water for a fixed period of time.",
+      "answers": {
+        "a": "To detect any further change in it's volume.",
+        "b": "To ensure that the sample is able to flow."
+      },
+      "explanations": {
+        "a": "To detect any further change in it's volume."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How do we determine the soundness of cement, if L1 is measured at a temperature of 27 ± 2° C after 24 hours and, L2 is measured after submerging and boiling the mould for 3 hours?",
+      "answers": {
+        "a": "L1-L2",
+        "b": "L2-L1",
+        "c": "L1+L2",
+        "d": "(L1+L2)/2"
+      },
+      "explanations": {
+        "a": "L1-L2 "
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": " In the Le- Chatelier's method, pressure is also applied to the cement sample.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}

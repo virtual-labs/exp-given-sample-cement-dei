@@ -1,0 +1,103 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The Le Chatelier's test is used to determine the unsoundness of cement because of_____?",
+      "answers": {
+        "a": "Free lime",
+        "b": "Excess Sulphates",
+        "c": "Alumina content ",
+        "d": "Chloride content"
+      },
+      "explanations": {
+        "a": "Free lime"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The soundness test is used to determine the______ of cement.",
+      "answers": {
+        "a": "Fineness",
+        "b": "Volume instability",
+        "c": "Setting time",
+        "d": "Hydration rate"
+      },
+      "explanations": {
+        "b": "Volume instability"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Apart from Le Chatelier's method, which test is used to determine the soundness of the cement sample?",
+      "answers": {
+        "a": "Air permeability test",
+        "b": "Autoclave test",
+        "c": "Vicat apparatus method",
+        "d": "Duff Abrams test"
+      },
+      "explanations": {
+        "b": "Autoclave test "
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following type of cement is more susceptible to unsoundness?",
+      "answers": {
+        "a": "OPC",
+        "b": "PPC",
+        "c": "RHC",
+        "d": "LHC"
+      },
+      "explanations": {
+        "a": "OPC"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What should be the standard consistency of cement to perform the soundness test?",
+      "answers": {
+        "a": "0.75P",
+        "b": "0.78P",
+        "c": "0.72P",
+        "d": "0.70P"
+      },
+      "explanations": {
+        "b": "0.78P"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following compound is responsible for unsoundness in cement upon hydration?",
+      "answers": {
+        "a": "C3A",
+        "b": "C2S",
+        "c": "C3S",
+        "d": "C4AF"
+      },
+      "explanations": {
+        "a": "C3A"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "The permissible expansion limit of cement for Le- Chatelier's test is expressed in terms of _____ ",
+      "answers": {
+        "a": "Percentage of expansion",
+        "b": "Millimetres of expansion",
+        "c": "Centimetres of expansion",
+        "d": "Millilitres"
+      },
+      "explanations": {
+        "b": "Millimetres of expansion"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}
