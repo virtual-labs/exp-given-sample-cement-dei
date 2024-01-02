@@ -77,7 +77,7 @@ trans2Step4.addEventListener("click", (evt) => {
         gif2Step4.style.visibility = 'hidden';
         simulationContainer.style.backgroundColor = pngColor;
 
-        instructionsStep4.innerText = "Fill the mould with the prepared cement paste. Remove excess cement from the top and obtain a smooth finish. Cover the Cover the mould with another glass plate and put a small weight on top of this arrangement.";
+        instructionsStep4.innerText = "Fill the mould with the prepared cement paste. Remove excess cement from the top and obtain a smooth finish. Cover the mould with another glass plate and put a small weight on top of this arrangement.";
         
         png3Step4.style.visibility = "visible";
 
