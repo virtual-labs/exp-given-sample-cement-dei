@@ -1,17 +1,45 @@
 ### Procedure-
 
-1. Weigh about 200g of cement and add 0.78 times the water required to  give a cement paste of standard consistency ( 0.78P, where ‘P’ is the consistency of cement).
+Procedure: Soundness Test of Cement (Le Chatelier’s Method)
+Step 1: Weighing of Cement
 
-2. Oil the mould and keep it on a smoothly oiled glass sheet. Fill the  prepared cement paste inside the mould such that the rims of the mould are carefully held together.
+-Click on the weighing plate and tare it to set the reading to zero. 
+-Using a spatula, accurately weigh 200 g of cement and then click on Next to proceed.
 
-3. Put another oiled glass sheet over the mould and put a small weight on top of this arrangement. Now, immediately submerge the entire setup in the water bath at a temperature of 27 ± 2° C for around 24 hours.
+Step 2: Weighing of Water
 
-4. Pull out the assembly from the water bath and determine the distance between the two pointers of the apparatus to the nearest 0.5 mm. Record this as L1.
+-Click on the beaker and tare its weight. 
+-Then, click on the measuring cylinder and weigh water equal to 0.78P times the weight of cement. 
+-After measuring the required quantity of water.
+-Click on Next.
 
-5. Again submerge the mould in the water bath at a temperature of 27 ± 2°C. Bring the water to a boil for 25 to 30 minutes with the mould kept submerged in it and let it boil for 3 hours. 
+Step 3: Preparation of Cement Paste
 
-6. Take out the mould from the water and let it cool for some time. Then, measure the distance between the two indicator points. Record this as L2.
+-Click on the beaker to add water to the cement. 
+-Then, click on the spatula and thoroughly mix the cement and water to obtain a uniform and homogeneous paste. 
+-After proper mixing, click on Next.
 
-7. The difference between the two readings (L1-L2) denotes the expansion of cement. 
+Step 4: Filling the Le Chatelier’s Mould
 
-8. Repeat the procedure as mentioned above for another set of readings and calculate the mean of the two values to determine the expansion of cement. 
+-Click on the brush and apply a thin layer of oil to the inner surface of the Le Chatelier’s mould. 
+-Click on the glass plate and place the mould apparatus on it. 
+-Using a spatula, fill the mould completely with the prepared cement paste. 
+-Click on the apparatus to spread the paste evenly. Now, place another glass plate on the top of the mould. 
+-Click on the weight and place it over the glass plate to apply uniform pressure. 
+-Click on Next.
+
+Step 5: Immersion in Water
+
+-Click on the Le Chatelier’s apparatus to immerse the complete assembly in the water tank.
+-After 24 hours, click on the apparatus to remove it from the water. 
+-Click on the scale to measure the distance between the two indicator points of the mould. 
+-Then, click on Next.
+
+Step 6: Boiling and Final Measurement
+
+-Click on the setup to place the mould assembly into boiling water. 
+-After boiling, click on the scale and measure the distance between the two indicator points again. 
+-Click on the columns to observe and record the readings.
+
+Finally, click on Post Test to evaluate your understanding of the experiment.
+
