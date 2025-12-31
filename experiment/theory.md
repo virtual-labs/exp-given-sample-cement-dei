@@ -69,7 +69,7 @@ Since the expansion due to unsoundness occurs very slowly under normal atmospher
 Two standard methods are prescribed:
 
 
-#### Le-Chatelier Method
+#### 1. Le-Chatelier Method
 
 This method involves:
 
@@ -84,7 +84,7 @@ This method involves:
 **Acceptance Criteria:** As per IS 8112:2013 for OPC 43 Grade, expansion shall not exceed 10 mm.
 
 
-#### Autoclave Method
+#### 2. Autoclave Method
 
 This method involves:
 
