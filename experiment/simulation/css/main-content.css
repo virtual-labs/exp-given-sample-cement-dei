@@ -41,7 +41,7 @@ main{
     display: inline-block;
     text-align: justify;
     margin-left: 10px;
-    top: 30px;
+    top: 20px;
     left: 100px;
     width: 690px;
     font-size: 18px;
@@ -53,7 +53,6 @@ main{
     text-align: justify;
     margin-left: 10px;
     top: 100px;
-    left: 175px;
     width: 610px;
     font-size: 18px;
 }
@@ -61,7 +60,7 @@ main{
 .instruction-main{
     position: absolute;
     display: inline-block;
-    top: 30px;
+    top: 20px;
 }
 
 /* TEXT  */
