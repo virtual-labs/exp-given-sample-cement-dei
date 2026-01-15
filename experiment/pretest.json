@@ -98,6 +98,48 @@
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
+    },
+    {
+      "question": "What is the maximum permissible expansion limit in the Le Chatelier's test for cement?",
+      "answers": {
+        "a": "10 mm",
+        "b": "5 mm",
+        "c": "8 mm",
+        "d": "12 mm"
+      },
+      "explanations": {
+        "b": "5 mm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In the Autoclave test, cement samples are subjected to high pressure steam at a temperature of approximately _____ °C.",
+      "answers": {
+        "a": "100",
+        "b": "150",
+        "c": "215",
+        "d": "250"
+      },
+      "explanations": {
+        "c": "215"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "The duration of the Autoclave test for cement soundness is typically _____ hours.",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "explanations": {
+        "c": "3"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     }
   ]
 }
