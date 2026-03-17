@@ -108,6 +108,34 @@
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
+    },
+    {
+      "question": "What is the standard time interval for measuring the initial length (L1) of the Le Chatelier's mould after preparing the cement sample?",
+      "answers": {
+        "a": "12 hours",
+        "b": "24 hours",
+        "c": "48 hours",
+        "d": "72 hours"
+      },
+      "explanations": {
+        "b": "24 hours"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The difference between the distance of the indicator legs before and after boiling gives the _____ of the cement sample.",
+      "answers": {
+        "a": "Fineness",
+        "b": "Expansion",
+        "c": "Strength",
+        "d": "Setting time"
+      },
+      "explanations": {
+        "b": "Expansion"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
