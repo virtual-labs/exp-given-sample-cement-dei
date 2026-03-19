@@ -1,0 +1,37 @@
+/* step1  */
+
+/* transboxes  */
+#trans1Step1{
+    left: 470px;
+    top: 195px;
+    width: 240px;
+    height: 75px;
+}
+#trans2Step1{
+    top: 480px;
+    left: 150px;
+    width: 30px;
+    height: 20px;
+}
+
+#trans3Step1{
+    left: 530px;
+    top: 155px;
+    width: 100px;
+    height: 50px;
+}
+
+/* arrows */
+#arr1Step1{
+    left: 710px;
+    top: 220px;
+}
+#arr2Step1{
+    left: 110px;
+    top: 475px;
+}
+
+#arr3Step1{
+    left: 620px;
+    top: 160px;
+}

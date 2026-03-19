@@ -1,0 +1,82 @@
+/* step 7  */
+
+.conclusion-span{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#conclusion{
+    position: absolute;
+    visibility: hidden;
+    top: 450px;
+    left: 50px;
+    text-align: justify;
+    width: 700px;
+    border: 2px solid green;
+    background-color: lightyellow;
+    padding: 5px;
+    display: flex;
+}
+
+/* transboxes */
+
+#trans1Step7{
+    top: 280px;
+    left: 130px;
+    width: 230px;
+    height: 75px;
+}
+
+#trans2Step7{
+    top: 280px;
+    left: 360px;
+    width: 250px;
+    height: 75px;
+}
+
+#trans3Step7{
+    top: 280px;
+    left: 610px;
+    width: 125px;
+    height: 75px;
+}
+
+#trans4Step7{
+    top: 360px;
+    left: 260px;
+    width: 230px;
+    height: 50px;
+}
+
+/* arrows */
+
+#arr1Step7{
+    top: 290px;
+    left: 340px;
+}
+
+#arr2Step7{
+    top: 290px;
+    left: 600px;
+}
+
+#arr3Step7{
+    top: 290px;
+    left: 730px;
+}
+
+#arr4Step7{
+    top: 375px;
+    left: 480px;
+}
+
+/* post test button  */
+
+#nextToPosttest{
+    width: 100px;
+    left: 690px;
+}
+
+.arr-next{
+    left: 640px;
+}
