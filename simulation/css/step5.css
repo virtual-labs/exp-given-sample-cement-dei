@@ -1,0 +1,40 @@
+/* step 5  */
+
+/* transboxes */
+
+#trans1Step5{
+    width: 50px;
+    height: 40px;
+    top: 145px;
+    left: 660px;
+}
+
+#trans2Step5{
+    width: 50px;
+    height: 40px;
+    top: 400px;
+    left: 430px;
+}
+
+#trans3Step5{
+    top: 125px;
+    left: 55px;
+    width: 40px;
+    height: 290px;
+}
+
+/* arrows  */
+
+#arr1Step5{
+    top: 150px;
+    left: 710px;
+}
+
+#arr2Step5{
+    top: 410px;
+    left: 480px;
+}
+
+#arr3Step5{
+    top: 250px;
+}
